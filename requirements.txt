@@ -1,0 +1,6 @@
+neo4j~=4.4.3
+tika~=1.24
+tqdm~=4.64.0
+validators~=0.20.0
+validate_email
+coinaddrvalidator~=1.1.3
